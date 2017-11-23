@@ -82,7 +82,8 @@ helpMessage ="""꧁☁🌟💫ஏ.ഖ.ມາເຟีຍຮ์💫🌟☁꧂
 ♨[NK: "Name"]: ~÷~
 ♨[Dead]: "Kick Blacklist"
        
-       By.꧁☁🌟💫ஏ.ഖ.ມາເຟีຍຮ์💫🌟☁꧂
+       ꧁☁🌟💫ஏ.ഖ.ມາເຟีຍຮ์💫🌟☁꧂
+       
       http://line.me/ti/p/t1-C5nM3-8        
   
 """
@@ -136,7 +137,7 @@ wait = {
     'autoAdd':False,
     'message':"Thanks add me ꧁☁🌟💫ஏ.ഖ.ມາເຟีຍຮ์💫🌟☁꧂ : http://line.me/ti/p/t1-C5nM3-8 ",
     "lang":"JP",
-    "comment":"Auto like 👉꧁☁🌟💫ஏ.ഖ.ມາເຟีຍຮ์💫🌟☁꧂👈 : http://line.me/ti/p/t1-C5nM3-8  ",
+    "comment":"Auto like 💓👉꧁☁🌟💫ஏ.ഖ.ມາເຟีຍຮ์💫🌟☁꧂👈💓 : http://line.me/ti/p/t1-C5nM3-8  ",
     "likeOn":False,
     "commentOn":False,
     "commentBlack":{},
@@ -1354,44 +1355,44 @@ def bot(op):
                 gs = cl.getGroup(msg.to)
                 for g in gs.members:
                     if _nametarget == g.displayName:
-                       cl.sendText(msg.to,"ƠƬƜ ƧƤƛM ƬƛƦƓЄƬ 😂")
-                       ki.sendText(g.mid,"Spam  😂")  
-                       kk.sendText(g.mid,"Spam  😂")  
-                       ks.sendText(g.mid,"Spam  😂")
-                       kc.sendText(g.mid,"Spam  😂")
-                       ka.sendText(g.mid,"Spam  😂")
-                       cl.sendText(g.mid,"Spam  😂")
-                       ki.sendText(g.mid,"Spam  😂")
-                       kk.sendText(g.mid,"Spam  😂")
-                       ks.sendText(g.mid,"Spam  😂")
-                       kc.sendText(g.mid,"Spam  😂")  
-                       ka.sendText(g.mid,"Spam  😂")  
-                       cl.sendText(g.mid,"Spam  😂")
-                       ki.sendText(g.mid,"Spam  😂")
-                       kk.sendText(g.mid,"Spam  😂")
-                       ks.sendText(g.mid,"Spam  😂")
-                       kc.sendText(g.mid,"Spam  😂")
-                       ka.sendText(g.mid,"Spam  😂")
-                       cl.sendText(g.mid,"Spam  😂")
-                       ki.sendText(g.mid,"Spam  😂")  
-                       kk.sendText(g.mid,"Spam  😂")  
-                       ks.sendText(g.mid,"Spam  😂")
-                       kc.sendText(g.mid,"Spam  😂")
-                       ka.sendText(g.mid,"Spam  😂")
-                       cl.sendText(g.mid,"Spam  😂")
-                       ki.sendText(g.mid,"Spam  😂")
-                       kk.sendText(g.mid,"Spam  😂")
-                       ks.sendText(g.mid,"Spam  😂")
-                       kc.sendText(g.mid,"Spam  😂")  
-                       ka.sendText(g.mid,"Spam  😂")  
-                       cl.sendText(g.mid,"Spam  😂")
-                       ki.sendText(g.mid,"Spam  😂")
-                       kk.sendText(g.mid,"Spam  😂")
-                       ks.sendText(g.mid,"Spam  😂")
-                       kc.sendText(g.mid,"HƛHƛHƛ ƊƖ ƧƤƛM  😂")
-                       ka.sendText(g.mid,"HƛHƛHƛ ƊƖ ƧƤƛM  😂")
-                       ks.sendText(g.mid,"HƛHƛHƛ ƊƖ ƧƤƛM  😂")
-                       cl.sendText(msg.to, "ƊƠƝЄ ƧƤƛM  😂")
+                       cl.sendText(msg.to,"ƠƬƜ ƧƤƛM ƬƛƦƓЄƬ ✡ப້າபര✡😂")
+                       ki.sendText(g.mid,"Spam  ✡ப້າபര✡😂")  
+                       kk.sendText(g.mid,"Spam  ✡ப້າபര✡😂")  
+                       ks.sendText(g.mid,"Spam  ✡ப້າபര✡😂")
+                       kc.sendText(g.mid,"Spam  ✡ப້າபര✡😂")
+                       ka.sendText(g.mid,"Spam  ✡ப້າபര✡😂")
+                       cl.sendText(g.mid,"Spam  ✡ப້າபര✡😂")
+                       ki.sendText(g.mid,"Spam  ✡ப້າபര✡😂")
+                       kk.sendText(g.mid,"Spam  ✡ப້າபര✡😂")
+                       ks.sendText(g.mid,"Spam  ✡ப້າபര✡😂")
+                       kc.sendText(g.mid,"Spam  ✡ப້າபര✡😂")  
+                       ka.sendText(g.mid,"Spam  ✡ப້າபര✡😂")  
+                       cl.sendText(g.mid,"Spam  ✡ப້າபര✡😂")
+                       ki.sendText(g.mid,"Spam  ✡ப້າபര✡😂")
+                       kk.sendText(g.mid,"Spam  ✡ப້າபര✡😂")
+                       ks.sendText(g.mid,"Spam  ✡ப້າபര✡😂")
+                       kc.sendText(g.mid,"Spam  ✡ப້າபര✡😂")
+                       ka.sendText(g.mid,"Spam  ✡ப້າபര✡😂")
+                       cl.sendText(g.mid,"Spam  ✡ப້າபര✡😂")
+                       ki.sendText(g.mid,"Spam  ✡ப້າபര✡😂")  
+                       kk.sendText(g.mid,"Spam  ✡ப້າபര✡😂")  
+                       ks.sendText(g.mid,"Spam  ✡ப້າபര✡😂")
+                       kc.sendText(g.mid,"Spam  ✡ப້າபര✡😂")
+                       ka.sendText(g.mid,"Spam  ✡ப້າபര✡😂")
+                       cl.sendText(g.mid,"Spam  ✡ப້າபര✡😂")
+                       ki.sendText(g.mid,"Spam  ✡ப້າபര✡😂")
+                       kk.sendText(g.mid,"Spam  ✡ப້າபര✡😂")
+                       ks.sendText(g.mid,"Spam  ✡ப້າபര✡😂")
+                       kc.sendText(g.mid,"Spam  ✡ப້າபര✡😂")  
+                       ka.sendText(g.mid,"Spam  ✡ப້າபര✡😂")  
+                       cl.sendText(g.mid,"Spam  ✡ப້າபര✡😂")
+                       ki.sendText(g.mid,"Spam  ✡ப້າபര✡😂")
+                       kk.sendText(g.mid,"Spam  ✡ப້າபര✡😂")
+                       ks.sendText(g.mid,"Spam  ✡ப້າபര✡😂")
+                       kc.sendText(g.mid,"HƛHƛHƛ ƊƖ ƧƤƛM  ✡ப້າபര✡😂")
+                       ka.sendText(g.mid,"HƛHƛHƛ ƊƖ ƧƤƛM  ✡ப້າபര✡😂")
+                       ks.sendText(g.mid,"HƛHƛHƛ ƊƖ ƧƤƛM  ✡ப້າபര✡😂")
+                       cl.sendText(msg.to, "ƊƠƝЄ ƧƤƛM  ✡ப້າபര✡😂")
                        print "Done spam" 
 #-----------------------------------------------------------
             elif msg.text in ["PING","Ping","ping"]:
