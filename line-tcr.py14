@@ -31,8 +31,10 @@ cl
 print "login success"
 reload(sys)
 sys.setdefaultencoding('utf-8')
-helpMessage ="""By.꧁☁🌟💫ஏ.ഖ.ມາເຟีຍຮ์💫🌟☁꧂ 
+helpMessage ="""꧁☁🌟💫ஏ.ഖ.ມາເຟีຍຮ์💫🌟☁꧂ 
   
+       👉👑🔻🔻 คำสั่ง 🔻🔻👑👈
+	    
 💫[Id]: ~÷~
 💫[Mid]: ~÷~
 💫[All mid]:
@@ -79,6 +81,7 @@ helpMessage ="""By.꧁☁🌟💫ஏ.ഖ.ມາເຟีຍຮ์💫🌟☁꧂
 ♨[Gn: "name"]: "Change name Group"
 ♨[NK: "Name"]: ~÷~
 ♨[Dead]: "Kick Blacklist"
+       
        By.꧁☁🌟💫ஏ.ഖ.ມາເຟีຍຮ์💫🌟☁꧂
       http://line.me/ti/p/t1-C5nM3-8        
   
@@ -131,9 +134,9 @@ wait = {
     'leaveRoom':False,
     'timeline':False,
     'autoAdd':False,
-    'message':"Thanks add meBy.꧁☁🌟💫ஏ.ഖ.ມາເຟีຍຮ์💫🌟☁꧂ : http://line.me/ti/p/t1-C5nM3-8 ",
+    'message':"Thanks add me ꧁☁🌟💫ஏ.ഖ.ມາເຟีຍຮ์💫🌟☁꧂ : http://line.me/ti/p/t1-C5nM3-8 ",
     "lang":"JP",
-    "comment":"Auto like 👉By.꧁☁🌟💫ஏ.ഖ.ມາເຟีຍຮ์💫🌟☁꧂👈 : http://line.me/ti/p/t1-C5nM3-8  ",
+    "comment":"Auto like 👉꧁☁🌟💫ஏ.ഖ.ມາເຟีຍຮ์💫🌟☁꧂👈 : http://line.me/ti/p/t1-C5nM3-8  ",
     "likeOn":False,
     "commentOn":False,
     "commentBlack":{},
